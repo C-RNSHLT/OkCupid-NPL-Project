@@ -14,3 +14,6 @@ Moreover, Table 2 presents the strong identiﬁers for a label with a likelihood
 n-gram.
 
 <img width="474" alt="Table1" src="https://user-images.githubusercontent.com/44473997/89260494-a7c78f80-d62c-11ea-9953-aacb43a6962e.PNG">
+
+<img width="321" alt="Table2" src="https://user-images.githubusercontent.com/44473997/89260550-c9287b80-d62c-11ea-8ec2-41db1e519831.PNG">
+
