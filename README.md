@@ -13,3 +13,4 @@ accuracy.
 Moreover, Table 2 presents the strong identiﬁers for a label with a likelihood ratio for the given
 n-gram.
 
+<img width="474" alt="Table1" src="https://user-images.githubusercontent.com/44473997/89260494-a7c78f80-d62c-11ea-9953-aacb43a6962e.PNG">
